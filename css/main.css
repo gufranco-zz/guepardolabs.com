@@ -11,11 +11,11 @@ a {
 
 #content {
   text-align: center;
-  height: 108px;
-  width: 300px;
+  height: 198px;
+  width: 600px;
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -54px;
-  margin-left: -150px;
+  margin-top: -99px;
+  margin-left: -300px;
 }
